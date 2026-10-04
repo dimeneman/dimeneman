@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Eman Gope
 
 Computer Science undergraduate passionate about **Machine Learning, MLOps, AI, and Backend Development**. I enjoy building end-to-end AI applications and scalable backend systems.
@@ -26,7 +25,6 @@ Computer Science undergraduate passionate about **Machine Learning, MLOps, AI, a
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=dimeneman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=dimeneman&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dimeneman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=dimeneman&icon=0&color=0)](https://visitcount.itsvg.in)
